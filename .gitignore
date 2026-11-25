@@ -1,0 +1,13 @@
+# Kit + competition data: never committed (breaks thinking_reproduces).
+kit/
+competition.json
+requirements.json
+kit.json
+
+# Local test tooling (not part of the entry).
+sim/
+sweep_bot_tmp.py
+
+# Python caches.
+__pycache__/
+*.pyc
